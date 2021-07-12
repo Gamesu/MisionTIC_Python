@@ -1,0 +1,15 @@
+compuesto 1 CoO 4
+compuesto 10 TiO2 20
+compuesto 11 ZnO 11
+compuesto 24 HgO 2
+compuesto 25 CrO 7
+compuesto 29 Ni2O3 6
+compuesto 30 Ag2O 8
+compuesto 35 Cu2O 18
+compuesto 36 CuO 10
+compuesto 46 Au2O3 19
+compuesto 50 BaO 17
+compuesto 57 PbO 20
+compuesto 60 Mn2O7 19
+compuesto 62 Fe2O3 13
+Cantidad de recipientes = 174

@@ -1,0 +1,12 @@
+compuesto 2 HCl 14
+compuesto 3 HF 12
+compuesto 16 HClO4 20
+compuesto 17 HNO3 9
+compuesto 26 H2CrO4 10
+compuesto 27 H2CO3 15
+compuesto 28 H3PO4 16
+compuesto 39 H2SO4 1
+compuesto 52 H3PO2 3
+compuesto 55 H5IO6 3
+compuesto 64 H2MnO4 11
+Cantidad de recipientes = 114

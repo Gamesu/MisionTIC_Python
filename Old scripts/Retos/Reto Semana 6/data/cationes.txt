@@ -1,0 +1,16 @@
+compuesto 8 H3S+ 17
+compuesto 9 CO2+ 15
+compuesto 18 NH4+ 6
+compuesto 19 PH4+ 14
+compuesto 22 ClO2+ 15
+compuesto 23 ClO3+ 17
+compuesto 33 H3O+ 13
+compuesto 34 ClO+ 14
+compuesto 40 H+ 3
+compuesto 47 SbH4+ 5
+compuesto 48 Ba2+ 2
+compuesto 51 Sr2+ 8
+compuesto 54 Mn4+ 19
+compuesto 59 Pt2+ 2
+
+Cantidad de recipientes para Catión : 150

@@ -1,0 +1,14 @@
+compuesto 6 ClO2- 15
+compuesto 7 ClO- 8
+compuesto 14 Cl- 14
+compuesto 15 Br- 20
+compuesto 31 IO3- 10
+compuesto 32 I- 3
+compuesto 41 ClO4- 12
+compuesto 42 ClO3- 9
+compuesto 43 HF2- 18
+compuesto 49 BrO3- 15
+compuesto 58 CN- 9
+compuesto 61 O3- 12
+compuesto 63 N3- 3
+Cantidad de recipientes = 148

@@ -1,0 +1,14 @@
+compuesto 4 Fe(OH)3 14
+compuesto 5 Fe(OH)2 3
+compuesto 12 Al(OH)3 3
+compuesto 13 Zn(OH)2 4
+compuesto 20 Ca(OH)2 11
+compuesto 21 Li(OH) 14
+compuesto 37 Cu(OH)2 14
+compuesto 38 CuOH 13
+compuesto 44 Na(OH) 9
+compuesto 45 Ba(OH) 16
+compuesto 53 Cr(OH)3 14
+compuesto 56 Pb(OH)4 10
+compuesto 65 Hg(OH)2 1
+Cantidad de recipientes = 126

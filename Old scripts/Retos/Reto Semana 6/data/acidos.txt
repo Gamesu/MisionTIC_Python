@@ -1,0 +1,6 @@
+compuesto 2 HCl 14
+compuesto 3 HF 12
+compuesto 16 HClO4 20
+compuesto 17 HNO3 9
+
+Cantidad de recipientes para Ácido : 55
